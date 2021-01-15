@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.AboutFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="25dp"
+        android:text="Softwarica College in collaboration with Coventry University
+Softwarica College is working in collaboration with Coventry University to offer a range of undergraduate programmes, BSc (Hons) Computing and BSc (Hons) Ethical Hacking Cybersecurity. On successful completion students will receive Coventry University degree award.Coventry University is a forward-looking, pioneering, modern University. The University is one of the UK’s leading Universities, ranked No.15 in the UK in the Guardian University Guide 2019. The University has been awarded TEF gold in the Teaching and Excellence Framework (TEF) 2017 for the quality of teaching.Softwarica College is a pioneer in introducing British Education in Nepal. Established in 2010, the college has crossed significant milestones in this short span of time. This is evident by the fact that the student number has already crossed 400 and is becoming very popular among students who aspire to gain a British Qualification. Softwarica College is one of the Best IT College in Nepal for student satisfaction in terms of course delivery and other academic resources.
+We are an avid follower of education based on practical approach. The college recognizes the fact that in order to be successful in finding a rewarding career, real life skills are also essential. For this reason, classes are held on personality development, presentation skills and public speaking skills. This combination of both academic and real life skills would thus help students towards their holistic development.
+"
+        android:textColor="@color/black"
+        android:textSize="15sp" />
+
+</FrameLayout>
